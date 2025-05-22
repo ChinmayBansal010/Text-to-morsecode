@@ -21,7 +21,7 @@ A stylish and easy-to-use desktop application built with Python and Tkinter for 
 1. **Clone the repository:**
 
 ```bash
-git clone https://github.com/your-username/morse-code-converter.git
+git clone https://github.com/ChinmayBansal010/morse-code-converter
 cd morse-code-converter
 ```
 
